@@ -13,9 +13,9 @@ Example:
 
 STDIN
 
-1 2 5<br>
+<code>1 2 5<br>
 5<br>
-9 9 9<br>
+9 9 9</code><br>
 
 Array will be
 
