@@ -12,11 +12,11 @@ Handles STDIN in JavaScript
 Example:
 
 STDIN
-
+```javascript
 <code>1 2 5</code><br>
 <code>5</code><br>
 <code>9 9 9</code><br>
-
+```
 Array will be
 
 [<br>
