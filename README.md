@@ -13,14 +13,16 @@ Example:
 
 STDIN
 ```javascript
-<code>1 2 5</code><br>
-<code>5</code><br>
-<code>9 9 9</code><br>
+1 2 5
+5
+9 9 9
 ```
 Array will be
 
-[<br>
-	[1, 2, 5],<br>
-	[5],<br>
-	[9, 9, 9]<br>
-]<br>
+```javascript
+[
+	[1, 2, 5],
+	[5],
+	[9, 9, 9]
+]
+```
